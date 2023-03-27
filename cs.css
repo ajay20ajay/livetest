@@ -1,0 +1,130 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid red;
+    background-color: gray;
+    height: 1800px;
+    width: 100%;
+    margin:40px;
+    text-align: center;
+   
+}
+
+.child1{
+    border: 1px solid green;
+    height: 180px;
+    width: 140px;
+    margin: 30px;
+    background-color: green;
+   
+
+}
+.child1:hover{
+    background-color: red;
+    rotate: left;
+}
+.child2{
+    border: 1px solid green;
+    height: 180px;
+    width: 140px;
+    margin: 30px;
+    background-color: green;
+}
+
+.child2:hover{
+    background-color: red;
+}
+.child3{
+    border: 1px solid green;
+    height: 180px;
+    width: 140px;
+    margin: 30px;
+    background-color: green;
+}
+
+.child3:hover{
+    background-color: red;
+}
+.child4{
+    border: 1px solid green;
+    height: 180px;
+    width: 140px;
+    margin: 30px;
+    background-color: green;
+}
+
+.child4:hover{
+    background-color: red;
+}
+.child5{
+    border: 1px solid green;
+    height: 180px;
+    width: 140px;
+    margin: 30px;
+    background-color: green;
+}
+
+.child5:hover{
+    background-color: red;
+    -ms-transform: scale(1.5);
+}
+.child6{
+    border: 1px solid green;
+    height: 180px;
+    width: 140px;
+    margin: 30px;
+    background-color: green;
+}
+
+.child6:hover{
+    background-color: red;
+
+}
+.child7{
+    border: 1px solid green;
+    height: 180px;
+    width: 140px;
+    margin: 30px;
+    background-color: green;
+}
+
+.child7:hover{
+    background-color: red;
+    border-radius: 100%;
+    transition-delay: 3s;
+}
+.child8{
+    border: 1px solid green;
+    height: 180px;
+    width: 140px;
+    margin: 30px;
+    background-color: green;
+}
+
+.child8:hover{
+    background-color: red;
+}
+.child9{
+    border: 1px solid green;
+    height: 180px;
+    width: 140px;
+    margin: 30px;
+    background-color: green;
+}
+
+.child9:hover{
+    background-color: red;
+}
+.child10{
+    border: 1px solid green;
+    height: 180px;
+    width: 140px;
+    margin: 30px;
+    background-color: green;
+}
+
+.child10:hover{
+    background-color: red;
+    transform: rotate(45deg);
+    
+}
